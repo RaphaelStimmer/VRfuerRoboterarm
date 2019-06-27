@@ -1,0 +1,6 @@
+<launch>
+
+	<include file="$(find ur_gazebo)/launch/ur5.launch">
+	</include>
+	
+</launch>
